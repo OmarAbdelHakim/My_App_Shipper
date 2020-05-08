@@ -1,0 +1,2 @@
+rootProject.name='AndroidEatItV2_ShipperApp'
+include ':app'
